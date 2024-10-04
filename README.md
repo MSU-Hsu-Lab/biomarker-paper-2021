@@ -14,5 +14,5 @@ The code in this repo is thus published as a supporting reference for the paper 
   - Construction and analyses of BMRS and gBMRS
   - ASCVD Risk Estimator comparison
 
-- Predictor files are located in https://www.dropbox.com/sh/2lekipbt9bs1jv5/AABERpXEm3JKa2wMCO1ZkpCHa?dl=0
+- Predictor files are stored on the Michigan State University Spartan Drive (OneDrive). Per MSU policy you must provide your email to get access. Please contact corresponding author Erik Widen (wideneri@msu.edu) to gain access.
   - Files with summary SNP data and effect sizes for PGS, PRS and BMRS predictors
